@@ -1,0 +1,27 @@
+.first-div {
+    background-color: coral;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    z-index: 1;
+}
+
+.second-div {
+    background-color: darkcyan;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: -75px;
+    left: 75px;
+    z-index: 2;
+}
+
+.third-div {
+    background-color: darkslategray;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: -150px;
+    left: 150px;
+}
+
